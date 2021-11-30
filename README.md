@@ -1,1 +1,1 @@
-# lesion_detect
+# Lesion detection model with added classes
